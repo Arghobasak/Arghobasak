@@ -1,3 +1,4 @@
+![logo](https://github.com/Arghobasak/Arghobasak/blob/main/Dark%20Navy%20Blue%20Game%20Youtube%20Thumbnail.jpg)
 <h1 align="center">Hi 👋, I'm Argho Basak</h1>
 <h3 align="center">A passionate Website developer from Bangladesh</h3>
 
