@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghobasak&label=Profile%20views&color=0e75b6&style=flat" alt="arghobasak" /> </p>
 
-- 🌱 I’m currently learning **I am currently studying class 10**
+- 🌱 **I am currently studying class 10**
 
 - 📫 How to reach me **orghobasak555@gmail.com**
 
