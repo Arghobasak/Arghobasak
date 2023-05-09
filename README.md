@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Argho basak</h1>
 <h3 align="center">A passionate Website developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+<img align="center" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghobasak&label=Profile%20views&color=0e75b6&style=flat" alt="arghobasak" /> </p>
 
